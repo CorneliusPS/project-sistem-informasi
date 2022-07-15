@@ -1,0 +1,30 @@
+/* Working Space */
+.workingspace {
+    margin-top: 120px;
+}
+
+.workingspace img {
+    border-radius: 30px;
+}
+.about_image img {
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+    height: 150px;
+    width: 100px;
+}
+.workingspace h3 {
+    font-size: 52px;
+    font-weight: 200;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.workingspace h3 span {
+    font-weight: 500;
+}
+
+.workingspace p {
+    font-size: 18px;
+    color: #acacac;
+    font-weight: 200;
+    margin: 30px 0;
+}
